@@ -7,7 +7,7 @@
       "price": 40,
       "category": "camisa",
       "sizes": ["XS","S","M","L","XL","2XL"],
-      "image": "https://api-produtos-ni2f1badu-carloseduardobastos.vercel.app/pexels-artem-podrez-7048257.jpg"
+      "image": "./public/pexels-artem-podrez-7048257.jpg"
     }
   ]
 }
